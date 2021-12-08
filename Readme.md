@@ -2,7 +2,7 @@ Json пока не распарсил и отобразил строкой в б
 
 в бд "app" в таблицу "currency" пишутся поля "date" (дата-время выполнения запроса) и "data"(строка из json)
 
-##for deployment
+###for deployment
 
 склонировать репозиторий:git clone https://github.com/AndreyAshurkov/get_currency.git
 
