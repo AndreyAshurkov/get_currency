@@ -13,6 +13,6 @@ services:
     container_name: app
     restart: on-failure
     ports:
-      - 8090:8090
+      - 8080:8080
     depends_on:
       - mypostgres
