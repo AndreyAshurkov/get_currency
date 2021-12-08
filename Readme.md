@@ -1,3 +1,6 @@
+Json пока не распарсил и отобразил строкой в браузере, 
+в бд "app" в таблицу "curency" пишутся поля "date" (дата-время) выполнения запроса и "data"(строка из json)
+
 for deployment
 
 Run application: docker-compose up -d
